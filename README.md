@@ -1,1 +1,3 @@
-# a-vingan-a-do-barba-negra
+# PiratesInvasionStage-6
+
+adding sounds and score
